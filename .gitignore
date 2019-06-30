@@ -16,4 +16,5 @@ vendor/
 
 # related to package main
 /learn-golang
+/learn-golang/tour/markov
 /learn-golang/tour/pig-game
